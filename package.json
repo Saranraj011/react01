@@ -1,0 +1,23 @@
+{
+  "name": "react-01",
+  "version": "1.0.0",
+  "description": "this is my frist react code",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saranraj011/react01.git"
+  },
+  "author": "Saranraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saranraj011/react01/issues"
+  },
+  "homepage": "https://github.com/Saranraj011/react01#readme",
+  "devDependencies": {
+    "parcel": "^2.13.0"
+  }
+}
+     
