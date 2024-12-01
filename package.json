@@ -4,6 +4,7 @@
   "description": "this is my frist react code",
   "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "jest"
   },
   "repository": {
@@ -17,7 +18,13 @@
   },
   "homepage": "https://github.com/Saranraj011/react01#readme",
   "devDependencies": {
-    "parcel": "^2.13.0"
+    "@babel/core": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }
-     
